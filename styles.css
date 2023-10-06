@@ -1,0 +1,67 @@
+body {
+  background-image: url(https://cdn.wallpapersafari.com/22/9/L3AMC1.jpg);
+  background-attachment: local;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 40px;
+}
+
+.title p {
+  color: white;
+}
+.title {
+  width: 200px;
+}
+
+.title span {
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+.system {
+  color: white;
+}
+.features {
+  color: greenyellow;
+}
+.title2 {
+  text-align: center;
+  color: white;
+}
+.features2 {
+  color: white;
+}
+.examples {
+  color: white;
+}
+.motherboard1 {
+  color: aquamarine;
+}
+.motherboard {
+  color: white;
+}
+.microproccesor {
+  color: aquamarine;
+}
+
+.microproccesor1 {
+  color: white;
+}
+.power-block {
+  color: aquamarine;
+}
+
+.power-block1 {
+  color: white;
+}
+.monitor {
+  color: aquamarine;
+}
+.centermonitor {
+  text-align: center;
+}
+.monitor1 {
+  color: white;
+}
